@@ -48,15 +48,6 @@
           <li><a href="#book-a-table">Book a Table</a></li>
           <li><a href="#chefs">Chefs</a></li>
           <li><a href="#events">Events</a></li>
-          <li class="dropdown"><a href="#"><span>Features</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-            <ul>
-              <li><a href="#">Canteen</a></li>
-              <li><a href="#">The Wood roams</a></li>
-              <li><a href="#">Fermentation Kitchen</a></li>
-              <li><a href="#">Sauna</a></li>
-              <li><a href="#">Rooftop Food Forest</a></li>
-            </ul>
-          </li>
           <li><a href="#contact">Contact</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
