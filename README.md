@@ -48,7 +48,6 @@
    ```bash
    git clone https://github.com/username/myrestaurant.git
    cd myrestaurant
-````
 
 2. **Install dependency**
 
